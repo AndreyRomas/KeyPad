@@ -1,0 +1,13 @@
+c:\users\андрей\documents\visual studio 2013\Projects\openhardwaretest\openhardwaretest\bin\Debug\openhardwaretest.exe.config
+c:\users\андрей\documents\visual studio 2013\Projects\openhardwaretest\openhardwaretest\obj\Debug\openhardwaretest.Form1.resources
+c:\users\андрей\documents\visual studio 2013\Projects\openhardwaretest\openhardwaretest\obj\Debug\openhardwaretest.Properties.Resources.resources
+c:\users\андрей\documents\visual studio 2013\Projects\openhardwaretest\openhardwaretest\obj\Debug\openhardwaretest.csproj.GenerateResource.Cache
+c:\users\андрей\documents\visual studio 2013\Projects\openhardwaretest\openhardwaretest\bin\Debug\openhardwaretest.exe
+c:\users\андрей\documents\visual studio 2013\Projects\openhardwaretest\openhardwaretest\bin\Debug\openhardwaretest.pdb
+c:\users\андрей\documents\visual studio 2013\Projects\openhardwaretest\openhardwaretest\bin\Debug\OpenHardwareMonitorLib.dll
+c:\users\андрей\documents\visual studio 2013\Projects\openhardwaretest\openhardwaretest\obj\Debug\openhardwaretest.exe
+c:\users\андрей\documents\visual studio 2013\Projects\openhardwaretest\openhardwaretest\obj\Debug\openhardwaretest.pdb
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\openhardwaretest\openhardwaretest\obj\Debug\openhardwaretest.csprojAssemblyReference.cache
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\openhardwaretest\openhardwaretest\obj\Debug\openhardwaretest.csproj.CopyComplete
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\openhardwaretest\openhardwaretest\bin\Debug\WindowsInput.dll
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\openhardwaretest\openhardwaretest\bin\Debug\WindowsInput.xml
