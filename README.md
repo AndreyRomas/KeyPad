@@ -10,3 +10,9 @@ Also custom lightning is possible.
 There are PCB files included here, but you can also get them or edit them from here: https://easyeda.com/dronromas2/keyboard
 
 This is my first C# software ever so i apologise for any mistakes or ugly code. 
+
+Screenshots:<br/>
+![ScreenShot](https://sun9-42.userapi.com/c200328/v200328036/2afb3/agmTxhkPaS4.jpg)<br/>
+![ScreenShot](https://sun9-7.userapi.com/c200328/v200328036/2afba/8U_BBm-_vao.jpg)<br/>
+![ScreenShot](https://sun9-11.userapi.com/c200328/v200328036/2afc1/y5v9NESjt8I.jpg)<br/>
+![ScreenShot](https://sun9-69.userapi.com/c200328/v200328036/2afc8/BLZGRIYpMI0.jpg)<br/>
